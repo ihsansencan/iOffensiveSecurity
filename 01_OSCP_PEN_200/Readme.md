@@ -1,3 +1,3 @@
 # # 01_OSCP_PEN_200
 
-![image](oscp.png)
+<center><img src="oscp.png" width="250" height="286"></center>
