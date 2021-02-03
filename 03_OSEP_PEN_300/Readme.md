@@ -1,3 +1,6 @@
 # # 03_OSEP_PEN_300
 
-![image](osep.png)
+<p align="center">
+<img src="osep.png" width="250" height="286">
+</p>
+* * *
